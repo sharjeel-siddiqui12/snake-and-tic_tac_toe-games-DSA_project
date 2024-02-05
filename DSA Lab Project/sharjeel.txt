@@ -1,0 +1,12 @@
+Score: 20
+Difficulty: 1
+Game Mode: Classic
+Score: 20
+Difficulty: 1
+Game Mode: Classic
+Score: 40
+Difficulty: 1
+Game Mode: Classic
+Score: 30
+Difficulty: 1
+Game Mode: Classic

@@ -1,0 +1,3 @@
+Score: 30
+Difficulty: 1
+Game Mode: Classic

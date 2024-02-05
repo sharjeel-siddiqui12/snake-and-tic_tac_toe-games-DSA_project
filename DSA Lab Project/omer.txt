@@ -1,0 +1,6 @@
+Score: 120
+Difficulty: 1
+Game Mode: Classic
+Score: 50
+Difficulty: 1
+Game Mode: Time Trial
